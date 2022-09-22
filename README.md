@@ -1,0 +1,2 @@
+## Disclaimer
+The materials and informations contained on this repo are for general information purposes and educational purposes only. I will not be liable for any usage or damage. You are responsible for any of use.
